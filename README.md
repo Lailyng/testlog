@@ -1,2 +1,2 @@
-# nularavel
-projek web ai
+# Belajar github
+mempelajari dasar-dasar github
