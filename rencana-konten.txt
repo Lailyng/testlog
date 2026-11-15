@@ -3,4 +3,4 @@ Perencanaan pembuatan konten
 - Pembelajaran branch
 - Berhasil merge tanpa conflict
 
-- Mencoba fitur 2
+- Mencoba fitur 1
