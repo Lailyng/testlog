@@ -4,3 +4,5 @@ Perencanaan pembuatan konten
 - Berhasil merge tanpa conflict
 
 - Mencoba fitur 1
+
+- Belajar mengedit melalui fork
